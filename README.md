@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <div>
-<a href="https://github.com/ramontrndd">
+<a href="[https://github.com/ramontrndd](https://github.com/ramontrndd)">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?ramontrndd&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?ramontrndd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>

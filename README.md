@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m @ramontrndd</h1>
 👋 Olá! Sou Ramon Trindade, um entusiasta de tecnologia determinado a trilhar o caminho do desenvolvimento web. Atualmente, estou mergulhado no estudo do front-end, mas meu objetivo final é o mundo do desenvolvimento full-stack.
 
-Como estudante de Análise e Desenvolvimento de Sistemas, estou comprometido em expandir minha expertise em programação, atualmente focado em aprofundar meu conhecimento em React para complementar minhas habilidades já consolidadas em tecnologias como Angular, JavaScript, TypeScript, HTML, CSS e NodeJS. Possuo também noções básicas em banco de dados relacionais, especialmente em MySQL.
+Como estudante de Análise e Desenvolvimento de Sistemas, estou comprometido em expandir minha expertise em programação, atualmente focado em aprofundar meu conhecimento em Angular para complementar minhas habilidades já consolidadas em tecnologias como JavaScript, TypeScript, HTML, CSS e NodeJS. Possuo também noções básicas em banco de dados relacionais, especialmente em MySQL.
 
 Estou motivado a explorar novas tecnologias e conceitos para me destacar no mercado de trabalho e contribuir de forma significativa para os projetos e desafios da equipe. Minha dedicação ao aprendizado contínuo e minha experiência prática me capacitam a enfrentar diversas demandas e a evoluir constantemente como profissional de desenvolvimento de software.
 

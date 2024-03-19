@@ -37,6 +37,11 @@ Estou motivado a explorar novas tecnologias e conceitos para me destacar no merc
 <a href="https://github.com/ramontrndd">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramontrndd&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ramontrndd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+
+</div>
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?ramontrndd=anuraghazra&show_icons=true&theme=dark"
@@ -48,7 +53,3 @@ Estou motivado a explorar novas tecnologias e conceitos para me destacar no merc
   />
   <img src="https://github-readme-stats.vercel.app/api?ramontrndd=anuraghazra&show_icons=true" />
 </picture>
-
-</div>
-
-

@@ -37,5 +37,5 @@ Estou motivado a explorar novas tecnologias e conceitos para me destacar no merc
 <a href="https://github.com/ramontrndd">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramontrndd&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ramontrndd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ramontrndd=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>

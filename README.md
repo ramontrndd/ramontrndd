@@ -1,34 +1,27 @@
 <h1> 👋 Hi, I’m @ramontrndd</h1>
-👋 Olá! Sou Ramon Trindade, um entusiasta de tecnologia determinado a trilhar o caminho do desenvolvimento web. Atualmente, estou mergulhado no estudo do front-end, mas meu objetivo final é o mundo do desenvolvimento full-stack.
-
-Como estudante de Análise e Desenvolvimento de Sistemas, estou comprometido em expandir minha expertise em programação, atualmente focado em aprofundar meu conhecimento em Angular para complementar minhas habilidades já consolidadas em tecnologias como JavaScript, TypeScript, HTML, CSS e NodeJS. Possuo também noções básicas em banco de dados relacionais, especialmente em MySQL.
-
-Estou motivado a explorar novas tecnologias e conceitos para me destacar no mercado de trabalho e contribuir de forma significativa para os projetos e desafios da equipe. Minha dedicação ao aprendizado contínuo e minha experiência prática me capacitam a enfrentar diversas demandas e a evoluir constantemente como profissional de desenvolvimento de software.
-
+Sou desenvolvedor Front-End.</br>
+Estudante de Análise e Desenvolvimento de Sistemas, estou comprometido em expandir minha expertise em programação, atualmente focado em aprofundar meu conhecimento em Angular, habilidade também com Back-end com NodeJs, Possuo também noções em banco de dados MySQL.
 <hr>
 
-<h3> Tecnologias e Ferramentas </h3>
+<h3>  Principais Competências 💻 </h3>
 <div>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50px" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="50px" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px"/>
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,typescript,js,figma,nodejs,express,mysql,docker,git,github,bootstrap" />
+  </a>
+</p>
 </div>
 <hr>
 <h3> Estou aprendendo</h3>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" />
-</div>
+<p align=center>
+  
+<img height="32" width="32" src="https://cdn.simpleicons.org/sonarcloud" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nx" />
+  
+</p>
+
 <hr>
 <div>
-<a href="https://www.twitch.tv/stewiefps" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@ramonbraintrindade"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ramontrndd" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>

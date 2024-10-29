@@ -22,7 +22,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, estou comprometido em expan
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,typescript,js,figma,nodejs,express,mysql,docker,git,github,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=angular,react,typescript,js,figma,nodejs,express,mysql,docker,git,github,bootstrap" />
   </a>
 </p>
 </div>

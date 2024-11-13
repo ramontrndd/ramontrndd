@@ -30,7 +30,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, estou comprometido em expan
 <h3> Estou aprendendo</h3>
 <p align=center>
   
-<img height="32" width="32" src="https://cdn.simpleicons.org/java" />
+<img height="32" width="32" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/springboot" />
   
 </p>

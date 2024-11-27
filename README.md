@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m @ramontrndd</h1>
 Sou desenvolvedor Front-End.</br>
-Estudante de Análise e Desenvolvimento de Sistemas, estou comprometido em expandir minha expertise em programação, atualmente focado em aprofundar meu conhecimento em Angular, habilidade também com Back-end com NodeJs, Possuo também noções em banco de dados MySQL.
+Estudante de Análise e Desenvolvimento de Sistemas, estou comprometido em expandir minha expertise em programação, atualmente focado em aprofundar meu conhecimento em Angular, habilidade também com Back-end em Java e NodeJs, Possuo também conhecimentos em banco de dados Relacionais e não relacionais (MySQL, PostGresSQL, MongoDB).
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)

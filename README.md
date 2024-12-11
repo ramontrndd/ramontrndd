@@ -3,6 +3,8 @@ Sou desenvolvedor Front-End.</br>
 Estudante de Análise e Desenvolvimento de Sistemas, estou comprometido em expandir minha expertise em programação, atualmente focado em aprofundar meu conhecimento em Angular, habilidade também com Back-end em Java e NodeJs, Possuo também conhecimentos em banco de dados Relacionais e não relacionais (MySQL, PostGresSQL, MongoDB).
 
 
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
@@ -22,7 +24,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, estou comprometido em expan
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,typescript,js,figma,nodejs,express,mysql,docker,git,github,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=angular,react,java,spring,typescript,js,figma,nodejs,express,mysql,docker,git,github,bootstrap" />
   </a>
 </p>
 </div>

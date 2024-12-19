@@ -1,5 +1,5 @@
 <h1> 👋 Hi, I’m @ramontrndd</h1>
-Sou desenvolvedor Front-End.</br>
+Sou desenvolvedor Fullstack</br>
 Estudante de Análise e Desenvolvimento de Sistemas, estou comprometido em expandir minha expertise em programação, atualmente focado em aprofundar meu conhecimento em Angular, habilidade também com Back-end em Java e NodeJs, Possuo também conhecimentos em banco de dados Relacionais e não relacionais (MySQL, PostGresSQL, MongoDB).
 
 
